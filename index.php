@@ -7,8 +7,8 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
-    <section name="awal" id="awal">
-    HTML
+    <section class="awal" id="awal">
+        
     </section>
 </body>
 </html>
